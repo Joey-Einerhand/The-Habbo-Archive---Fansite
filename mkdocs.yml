@@ -69,7 +69,7 @@ extra:
   generator: false
 
 extra_css:
-  - stylesheets/extra.css?v=1.2
+  - stylesheets/extra.css?v=1.3
 
 hooks:
   - hooks/socialmedia.py
