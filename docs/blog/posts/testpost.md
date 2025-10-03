@@ -6,10 +6,7 @@ tags:
     - TF2
     - Linux
     - Server tips
-
-authors:
-    - 3DTv
-
+    
 draft: false
 pin: false
 ---

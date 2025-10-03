@@ -38,6 +38,7 @@ theme:
 plugins:
     - search
     - privacy
+    - glightbox
     - blog:
         blog_toc: true
         archive_date_format: MMMM yyyy
@@ -55,21 +56,20 @@ plugins:
           - tags
 
 
+
 nav:
   - Home: index.md
+  - Archive: archive/archive.md
   - Tutorials:
       - tutorials/stacking.md
-  - Cool links:
+  - Other fansites:
       - partner-websites/community-links.md
 
 extra:
   generator: false
-  social:
-    - icon: fontawesome/brands/discord 
-      link: https://discord.gg/5u2VDQM2eV
 
 extra_css:
-  - stylesheets/extra.css?v=1.1
+  - stylesheets/extra.css?v=1.2
 
 hooks:
   - hooks/socialmedia.py
@@ -105,4 +105,4 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
 
-copyright: The Habbo Archive is not affiliated with, endorsed, sponsored, or specifically approved by Sulake Oy or its Affiliates. The Habbo Archive may use the trademarks and other intellectual property of Habbo, which is permitted under Habbo Fan Site Policy
+copyright: The Habbo Archive is not affiliated with, endorsed, sponsored, or specifically approved by Sulake Oy or its Affiliates. The Habbo Archive may use the trademarks and other intellectual property of Habbo, which is permitted under Habbo Fan Site Policy.

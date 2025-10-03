@@ -1,7 +1,4 @@
-<b> Join the [:fontawesome-brands-discord:{ .discord } Habbo Archive discord! ](https://discord.gg/5u2VDQM2eV) </b>
-
 # Stacking in Habbo: Origins
-
 Stacking in Habbo Origins is slightly different than stacking in the classic Habbo from 2005.
 Some custom code was added to make stacking 1-tile furni easier, and for stacking 2+ size furni, 
 the use of a bug is required. This bug in unique to Habbo: Origins.

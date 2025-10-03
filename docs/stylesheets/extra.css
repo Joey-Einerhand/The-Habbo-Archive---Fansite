@@ -16,6 +16,7 @@ header {
 .md-tabs__list .md-tabs__link {
     paint-order: stroke fill;
     -webkit-text-stroke: 3px white;
+    font-size: 0.8rem;
     padding: 0 5px 0 5px;
 }
 
@@ -24,7 +25,15 @@ header {
 }
 
 .md-search__input::placeholder {
-    color: black !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.md-header__button {
+    color: rgb(255, 255, 255) !important;
+}
+
+.md-search__icon {
+    color: rgb(255, 255, 255) !important;
 }
 
 .discordiframe {
@@ -41,3 +50,4 @@ header {
 
 .gold_text a {
     color: #ffc105;
+}
